@@ -1,4 +1,1 @@
-
-markdown
-### 📈 GitHub Activity Graph:
-![Anurag's GitHub activity graph](https://activity-graph.herokuapp.com/graph?nicrozj)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicrozj&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
